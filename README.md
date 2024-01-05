@@ -1,16 +1,29 @@
-### Hi there 👋
+# 🚀 Emilia Poletti - Desarrolladora Junior
 
-<!--
-**SraMacbeth/SraMacbeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una estudiante autodidacta de programación con una verdadera pasión por la tecnología. Mi formación académica incluye una Licenciatura en Psicología, lo que ha fortalecido mis habilidades analíticas, capacidad de resolución de problemas y trabajo en equipo.
 
-Here are some ideas to get you started:
+Mi deseo inquebrantable es dar el salto profesional a la industria tecnológica, donde creo que puedo aplicar mis habilidades y continuar aprendiendo de manera constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conoce más de mí en... 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-poletti-dev/)
+
+
+## 🛠 Skills
+
+Frontend: HTML, CSS, Javascript, React
+
+Backend: NodeJs, Express, SQL Workbench
+
+Otras tecnología: Git, GitHub, Python
+
+
+## Mis proyectos
+
+* [Encriptador de texto](https://github.com/SraMacbeth/challange_encriptador)
+
+* [Tabla periódica de los elementos](https://github.com/SraMacbeth/Tabla-Periodica)
+
+* [CRUD Fullstack](https://github.com/SraMacbeth/Crud-Fullstack-React)
+
+* Más proyectos en camino...
