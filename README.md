@@ -1,4 +1,4 @@
-# 🚀 Emilia Poletti - Desarrolladora Junior
+# 👩 Emilia Poletti - Desarrolladora Junior
 
 Soy una estudiante autodidacta de programación con una verdadera pasión por la tecnología. Mi formación académica incluye una Licenciatura en Psicología, lo que ha fortalecido mis habilidades analíticas, capacidad de resolución de problemas y trabajo en equipo.
 
@@ -9,7 +9,7 @@ Conoce más de mí en...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-poletti-dev/)
 
 
-## 🛠 Skills
+## ⚒️ Skills
 
 Frontend: HTML, CSS, Javascript, React
 
@@ -18,7 +18,7 @@ Backend: NodeJs, Express, SQL Workbench
 Otras tecnología: Git, GitHub, Python
 
 
-## Mis proyectos
+## 🚀 Mis proyectos
 
 * [Encriptador de texto](https://github.com/SraMacbeth/challange_encriptador)
 
