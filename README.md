@@ -15,7 +15,7 @@ Frontend: HTML, CSS, Javascript, React
 
 Backend: NodeJs, Express, SQL Workbench
 
-Otras tecnología: Git, GitHub, Python
+Otras tecnologías: Git, GitHub, Python
 
 
 ## 🚀 Mis proyectos
