@@ -13,9 +13,9 @@ Conoce más de mí en...
 
 Frontend: HTML, CSS, Javascript, React
 
-Backend: NodeJs, Express, SQL Workbench
+Backend: NodeJs, Express, SQL Workbench, Flask, Python
 
-Otras tecnologías: Git, GitHub, Python
+Otras tecnologías: Git, GitHub 
 
 
 ## 🚀 Mis proyectos
