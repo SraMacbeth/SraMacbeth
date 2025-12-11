@@ -1,8 +1,7 @@
-# 👩 Emilia Poletti - Desarrolladora Junior
+# 👩 Emilia Poletti - Desarrolladora Python Fullstack Junior
 
-Soy una estudiante autodidacta de programación con una verdadera pasión por la tecnología. Mi formación académica incluye una Licenciatura en Psicología, lo que ha fortalecido mis habilidades analíticas, capacidad de resolución de problemas y trabajo en equipo.
-
-Mi deseo inquebrantable es dar el salto profesional a la industria tecnológica, donde creo que puedo aplicar mis habilidades y continuar aprendiendo de manera constante.
+Desarrolladora Python Fullstack Junior enfocada en el ecosistema Python (Django/Flask) y React, con experiencia profesional previa. Mi base en Psicología ha potenciado mis habilidades analíticas y de resolución de problemas. 
+Busco un rol en IT que me permita capitalizar la versatilidad de Python para contribuir tanto en el desarrollo de webapps robustas como en la exploración de aplicaciones de escritorio.
 
 Conoce más de mí en... 
 
@@ -13,9 +12,9 @@ Conoce más de mí en...
 
 Frontend: HTML, CSS, Javascript, React
 
-Backend: NodeJs, Express, SQL Workbench, Flask, Python
+Backend: NodeJs, Express, SQL Workbench, Python, Flask 
 
-Otras tecnologías: Git, GitHub 
+Otras tecnologías: Git, GitHub
 
 
 ## 🚀 Mis proyectos
@@ -24,7 +23,7 @@ Otras tecnologías: Git, GitHub
 
 * [Tabla periódica de los elementos](https://github.com/SraMacbeth/Tabla-Periodica)
 
-* [CRUD Fullstack](https://github.com/SraMacbeth/Crud-Fullstack-React)
+* [CRUD Fullstack React](https://github.com/SraMacbeth/Crud-Fullstack-React)
   
 * [La Filmoteca](https://github.com/SraMacbeth/La-Filmoteca)
 
