@@ -28,10 +28,10 @@ Otras tecnologías: Git, GitHub
 ## 🛠️ En proceso de actualización (Case Studies) 
  
 * **CineApp (Flask & Python):** [Ver Documentación y Capturas]()
-* *Enfoque:* Arquitectura de backend, abstracción de servicios y seguridad de APIs.
+  *Enfoque:* Arquitectura de backend, abstracción de servicios y seguridad de APIs.
 
 * **La Filmoteca (React & Bootstrap):** [Ver Documentación y Capturas]()
-* *Enfoque:* UI/UX responsiva, componentes reutilizables y manejo de hooks.
+  *Enfoque:* UI/UX responsiva, componentes reutilizables y manejo de hooks.
   
 ## 💻 En desarrollo 
 
