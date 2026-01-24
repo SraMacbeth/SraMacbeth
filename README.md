@@ -17,16 +17,22 @@ Backend: NodeJs, Express, SQL Workbench, Python, Flask
 Otras tecnologías: Git, GitHub
 
 
-## 🚀 Mis proyectos
+## 🚀 Proyectos Destacados
 
-* [Encriptador de texto](https://github.com/SraMacbeth/challange_encriptador)
+* [Encriptador de texto](https://github.com/SraMacbeth/challange_encriptador) - *Lógica pura en JS.*
 
-* [Tabla periódica de los elementos](https://github.com/SraMacbeth/Tabla-Periodica)
+* [Tabla periódica de los elementos](https://github.com/SraMacbeth/Tabla-Periodica) - *HTML y CSS.*
 
-* [CRUD Fullstack React](https://github.com/SraMacbeth/Crud-Fullstack-React)
+* [CRUD Fullstack React](https://github.com/SraMacbeth/Crud-Fullstack-React) - *Gestión de estados y bases de datos.*
+
+## 🛠️ En proceso de actualización (Case Studies) 
+ 
+* **CineApp (Flask & Python):** [Ver Documentación y Capturas]()
+* *Enfoque:* Arquitectura de backend, abstracción de servicios y seguridad de APIs.
+
+* **La Filmoteca (React & Bootstrap):** [Ver Documentación y Capturas]()
+* *Enfoque:* UI/UX responsiva, componentes reutilizables y manejo de hooks.
   
-* [La Filmoteca](https://github.com/SraMacbeth/La-Filmoteca)
+## 💻 En desarrollo 
 
-* [Gestor de Bibliotecas](https://github.com/SraMacbeth/gestor_de_biblioteca) En desarrollo...
-
-* [CineApp](https://github.com/SraMacbeth/cineapp) En desarrollo...
+* [Gestor de Bibliotecas](https://github.com/SraMacbeth/gestor_de_biblioteca) - *Aplicación de escritorio con Tkinter y SQLite.*
