@@ -31,7 +31,7 @@ Otras tecnologías: Git, GitHub
 
   * *Enfoque:* Arquitectura de backend, abstracción de servicios y seguridad de APIs.
 
-* **La Filmoteca (React & Bootstrap):** [Ver Documentación y Capturas]()
+* **La Filmoteca (React & Bootstrap):** [Ver Documentación y Capturas](https://github.com/SraMacbeth/La-Filmoteca-Case-Study)
 
   * *Enfoque:* UI/UX responsiva, componentes reutilizables y manejo de hooks.
   
