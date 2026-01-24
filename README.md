@@ -27,7 +27,7 @@ Otras tecnologías: Git, GitHub
 
 ## 🛠️ En proceso de actualización (Case Studies) 
  
-* **CineApp (Flask & Python):** [Ver Documentación y Capturas]()
+* **CineApp (Flask & Python):** [Ver Documentación y Capturas](https://github.com/SraMacbeth/Cine_App)
 
   * *Enfoque:* Arquitectura de backend, abstracción de servicios y seguridad de APIs.
 
