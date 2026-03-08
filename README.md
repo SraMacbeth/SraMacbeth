@@ -1,4 +1,4 @@
-# 👩 Emilia Poletti - Desarrolladora Fullstack Python
+# 👩 Emilia Poletti - Python Developer | Fullstack & Desktop Apps
 
 Desarrolladora Fullstack enfocada en el ecosistema Python (Django/Flask) y React, con experiencia profesional previa. Mi base en Psicología ha potenciado mis habilidades analíticas y de resolución de problemas. 
 Busco un rol en IT que me permita capitalizar la versatilidad de Python para contribuir tanto en el desarrollo de webapps robustas como en la exploración de aplicaciones de escritorio.
