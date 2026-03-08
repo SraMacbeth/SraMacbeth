@@ -25,6 +25,8 @@ Otras tecnologías: Git, GitHub
 
 * [CRUD Fullstack React](https://github.com/SraMacbeth/Crud-Fullstack-React) - *Gestión de estados y bases de datos.*
 
+* [Random Email Generator](https://github.com/SraMacbeth/random-email-generator) - *FastAPI Application.*
+
 ## 🛠️ En proceso de actualización (Case Studies) 
  
 * **CineApp (Flask & Python):** [Ver Documentación y Capturas](https://github.com/SraMacbeth/Cine_App)
