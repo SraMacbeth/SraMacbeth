@@ -42,6 +42,6 @@ Conservo estos proyectos como testimonio de mi capacidad para integrar interface
  * **Frontend:** React, Javascript, HTML5, CSS3.
  * **Infraestructura & Tools:** Git, GitHub, Debian Linux.
 
-📫 **¿Hablamos?**
+### 📫 **¿Hablamos?**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-poletti-dev/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliapol81@gmail.com)
