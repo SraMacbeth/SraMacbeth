@@ -6,7 +6,7 @@ Me especializo en el ecosistema **Python**, con fuerte interés en el desarrollo
 
 ### 🚀 Proyectos Destacados (Foco en Lógica y Arquitectura)
 
-#### [📚 Gestor de Bibliotecas](https://github.com/SraMacbeth/gestor_de_biblioteca)
+#### 📚 [Gestor de Bibliotecas](https://github.com/SraMacbeth/gestor_de_biblioteca)
  
 *Sistema robusto para la administración de inventarios y gestión de datos.*
 
@@ -24,7 +24,7 @@ Me especializo en el ecosistema **Python**, con fuerte interés en el desarrollo
 
  * **Web Scraping:** Extracción y estructuración de datos dinámicos mediante BeautifulSoup y requests.
 
-#### [📧 Generador de Emails Aleatorios](https://github.com/SraMacbeth/random-email-generator) 
+#### 📧 [Generador de Emails Aleatorios](https://github.com/SraMacbeth/random-email-generator) 
 *Microservicio para la gestión de datos dinámicos.*
 
  * **Tecnologías:** FastAPI. Demuestra manejo de frameworks modernos para la creación de herramientas de backend rápidas y eficientes.
@@ -43,4 +43,5 @@ Conservo estos proyectos como testimonio de mi capacidad para integrar interface
  * **Infraestructura & Tools:** Git, GitHub, Debian Linux.
 
 📫 **¿Hablamos?**
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-poletti-dev/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliapol81@gmail.com)
