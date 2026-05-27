@@ -16,7 +16,8 @@ Me especializo en el ecosistema **Python**, con fuerte interés en el desarrollo
 
 #### ⚙️ Ecosistema de Automatización & Office (Scripts)
 
-*Soluciones inspiradas en "Automate the Boring Stuff" para optimizar procesos administrativos.*
+ * **Sistema de Trading Algorítmico & Motor de Backtesting**
+Arquitectura modular en desarrollo para la automatización de estrategias de inversión. El sistema procesa grandes volúmenes de datos históricos (Pandas/yFinance) evaluando rendimientos mediante interés compuesto. Actualmente en fase de refactorización para migrar de simulaciones históricas a ejecución en tiempo real (Paper Trading) integrando la API de Alpaca, con miras a producción en mercados reales.
 
  * **Organizador de Archivos:** Gestión inteligente de sistemas de archivos con interfaz gráfica para previsualización de cambios.
 
@@ -38,7 +39,7 @@ Conservo estos proyectos como testimonio de mi capacidad para integrar interface
 
 ### ⚒️ Technical Stack
  * **Lenguajes & Backend:** Python (Django, Flask, FastAPI), Node.js, Express.
- * **Desktop & Data:** Tkinter, SQL (SQLite, SQLite) .
+ * **Desktop & Data Science:** Tkinter, Pandas, NumPy, SQL (SQLite).
  * **Frontend:** React, Javascript, HTML5, CSS3.
  * **Infraestructura & Tools:** Git, GitHub, Debian Linux.
 
