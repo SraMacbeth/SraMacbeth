@@ -1,12 +1,8 @@
 # 👩 Emilia Poletti | Python Developer & Software Solutions
 
-Mi enfoque como desarrolladora no se limita a escribir código: sino a diseñar soluciones lógicas. Mi
-formación en psicología me permite desglosar procesos complejos para
-transformarlos en arquitecturas de software eficientes, centradas en la
-resolución de problemas y la automatización de tareas.
+Mi enfoque como desarrolladora autodidacta no se limita a escribir código, sino a diseñar soluciones lógicas. Mi formación en Psicología me permite desglosar procesos complejos para transformarlos en arquitecturas de software eficientes, centradas en la resolución de problemas y la productividad operativa.
 
-Me especializo en el ecosistema Python, con fuerte interés en el
-desarrollo de aplicaciones de escritorio y la optimización de flujos detrabajo mediante herramientas de automatización.
+Me especializo en el ecosistema Python, con fuerte interés en el desarrollo de aplicaciones de escritorio y el diseño de herramientas para la automatización de flujos de trabajo.
 
 ### 🚀 Proyectos Destacados (Foco en Lógica y Arquitectura)
 
